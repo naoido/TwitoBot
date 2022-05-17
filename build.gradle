@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'com.naoido'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven {
+        name 'm2-dv8tion'
+        url 'https://m2.dv8tion.net/releases'
+    }
+    jcenter()
+}
+
+dependencies {
+    implementation("com.jagrosh:jda-utilities:3.0.5")
+    implementation("net.dv8tion:JDA:4.3.0_277")
+    implementation("org.twitter4j:twitter4j-core:4.0.7")
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.3.4")
+    implementation("org.eclipse.jetty:jetty-server:11.0.9")
+    implementation("org.eclipse.jetty:jetty-servlet:11.0.9")
+}
