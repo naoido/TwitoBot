@@ -23,7 +23,7 @@ public class Main {
     public static final String PREFIX = "!";
 
     public static void main(String[] args) throws Exception {
-        //Cashを読み込む
+        //Cacheを読み込む
         TwitterUtil.json = new ObjectMapper().readTree(TwitterUtil.JSON_FILE);
         System.out.println(TwitterUtil.json);
 
