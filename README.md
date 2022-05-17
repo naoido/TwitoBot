@@ -1,5 +1,5 @@
 #とうぃとBOT
-> ![ここを押して追加！！](https://discord.com/api/oauth2/authorize?client_id=381680291384655873&permissions=8&scope=applications.commands%20bot)
+> [ここを押して追加！！](https://discord.com/api/oauth2/authorize?client_id=381680291384655873&permissions=8&scope=applications.commands%20bot)
 
 ## できること
 > TweetURLからメディアURLの取得(メディア : 動画 , 写真 , gif , 音声ツイート)
