@@ -1,5 +1,4 @@
-# とうぃとBOT  
-## DiscordBot
+# とうぃとBOT(DiscordBot)
 > [ここを押して追加！！](https://discord.com/api/oauth2/authorize?client_id=381680291384655873&permissions=8&scope=applications.commands%20bot)
 
 ## できること
